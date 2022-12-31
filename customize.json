@@ -3,6 +3,7 @@
   "name": "Adiba",
   "greetingText": "2022 is about to end",
   "wishText": "Hopefully i can have another fun year with Adiba",
+  "imagePath": "img/lydia2.png",
   "text1": "Happy Yew Year!",
   "textInChatBox": "Happy new year to adiba, send my regards to milly too",
   "sendButtonLabel": "Send",
@@ -18,4 +19,5 @@
   "wishHeading": "2023",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Click this, if Adiba want to replay it again.",
+  "outroSmiley": ":)"
 }
